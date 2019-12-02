@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)# code an argument here
   # Your code here
   # dwarves.map{|n| ""}
-  puts dwarves
+  # puts dwarves
 end
 
 def summon_captain_planet# code an argument here
@@ -16,3 +16,4 @@ def find_the_cheese# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
+
